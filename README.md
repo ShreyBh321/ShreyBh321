@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">Hi👋, I'm Shrey Bhardwaj<br>A passionate frontend developer from India</h2>
+<h2 align="center">Hi👋, I'm Shrey Bhardwaj<br>A passionate Software from India</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Shrey from Noida<br><br>- 🔭 I’m working as Front End Developer<br>- 📚 I'm currently learning React JS<br>- ⚡ In my free time I compose and write songs</p>
+<p align="left">I'm Shrey from Noida<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I compose and write songs</p>
 
 ###
 
