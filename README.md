@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">Hi👋, I'm Shrey Bhardwaj<br>A passionate Software from India</h2>
+<h2 align="center">Hi👋, I'm Shrey Bhardwaj<br>A passionate Data Engineer from India</h2>
 
 ###
 
